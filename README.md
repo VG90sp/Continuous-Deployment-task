@@ -1,5 +1,2 @@
-# Webpack5
-
-[Информация о релизе Webpack 5](https://webpack.js.org/blog/2020-10-10-webpack-5-release/)
-
-[Migration Guide](https://webpack.js.org/migrate/5/)
+[![Build status](https://ci.appveyor.com/api/projects/status/ot3ho1dfks089xmo/branch/master?svg=true)](https://ci.appveyor.com/project/VG90sp/continuous-deployment-task/branch/master)
+## Github-pages: https://vg90sp.github.io/Continuous-Deployment-task/
